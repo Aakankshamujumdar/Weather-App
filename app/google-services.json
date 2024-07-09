@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601790283522",
+    "project_id": "login-register-firebase-ec25a",
+    "storage_bucket": "login-register-firebase-ec25a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601790283522:android:efb8b285e89105fc1a8c1b",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIs97EPr8OcR_-iScIoOZr11cwvUFKbp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
